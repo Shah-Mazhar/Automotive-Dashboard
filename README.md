@@ -6,6 +6,10 @@
 
 •	Both dashboards have user interactivity in the IBM Cognos Analytics platform that user can switch between dashboard and filter through certain dataset.
 
+# Cognos Analytics Link:
+
+https://us3.ca.analytics.ibm.com/bi/?perspective=dashboard&pathRef=.my_folders%2FAutomotive%2BDashboard&action=view&mode=dashboard&subView=model00000176c921fe9a_00000001
+
 ## Sales Dashboard:
 
 ![Sales Dashboard](https://user-images.githubusercontent.com/55895245/103492724-d1166280-4dfa-11eb-9f9f-3e9cb15855eb.png)
