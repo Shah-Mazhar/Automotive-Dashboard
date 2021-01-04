@@ -8,4 +8,8 @@
 
 ## Sales Dashboard:
 
+![Sales Dashboard](https://user-images.githubusercontent.com/55895245/103492724-d1166280-4dfa-11eb-9f9f-3e9cb15855eb.png)
+
 ## Service Dashboard: 
+
+![Service Dashboard](https://user-images.githubusercontent.com/55895245/103492726-d1166280-4dfa-11eb-802b-c3631f80d6df.png)
