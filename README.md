@@ -6,7 +6,7 @@
 
 •	Both dashboards have user interactivity in the IBM Cognos Analytics platform that user can switch between dashboard and filter through certain dataset.
 
-# IBM Cognos Analytics Link to the Dashboard:
+## IBM Cognos Analytics Link to the Dashboard:
 
 https://us3.ca.analytics.ibm.com/bi/?perspective=dashboard&pathRef=.my_folders%2FAutomotive%2BDashboard&action=view&mode=dashboard&subView=model00000176c921fe9a_00000001
 
